@@ -71,12 +71,6 @@ See the full licence text in the repository or at http://opendatacommons.org/lic
 
 This work is supported by the UK Research and Innovation under Grant No.: EP/S023437/1.
 
-## Contact
-
-For questions about this data or the research, please contact:
-- Jack McKinlay: jam218@bath.ac.uk
-- University of Bath, UK
-
 ## Related Links
 
 - Full paper: [arXiv:2509.13854](https://arxiv.org/abs/2509.13854)
